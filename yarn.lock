@@ -8314,6 +8314,11 @@ react-scripts@3.4.0:
   optionalDependencies:
     fsevents "2.1.2"
 
+react-slot-machine@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-slot-machine/-/react-slot-machine-1.0.0.tgz#a1cc0aa7b6c8c5fa79fd5dc66208c2a8ef410b01"
+  integrity sha512-HWqzLPjOH66/QhksXfo5aEWepnn4wJseDamEJjWu9Cf20bBDoi83dPcx9V8DIULuz0RoHgeeq/HGLccVxz9PmA==
+
 react@^16.12.0:
   version "16.12.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.12.0.tgz#0c0a9c6a142429e3614834d5a778e18aa78a0b83"
